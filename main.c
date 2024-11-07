@@ -40,7 +40,7 @@ int main() {
     printf("Difference: %d\n", diff);
     printf("Product: %d\n", prod);
     printf("Quotient: %.2f\n", quot);
-    printf("Modulus: %d\n", mod);
+    printf("Co-Modulus: %d\n", mod);
 
     // 5. Loops: For Loop
     printf("\nFor Loop - Numbers from 1 to 5:\n");
@@ -49,7 +49,7 @@ int main() {
     }
 
     // 6. Loops: While Loop
-    printf("\nWhile Loop - Numbers from 1 to 5:\n");
+    printf("\nfor Loop - Numbers from 1 to 5:\n");
     int i = 1;
     while (i <= 5) {
         printf("%d\n", i);
